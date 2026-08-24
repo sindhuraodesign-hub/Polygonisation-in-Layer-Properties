@@ -23,7 +23,7 @@ The workflow explored:
 4. Configure polygonisation parameters such as minimum polygon area and layer name.
 5. Generate polygon layers from the selected regions.
 
-**[View prototypes here →](https://sindhuraodesign-hub.github.io/Claude-Prototypes/)**
+**[View prototypes here →](https://sindhuraodesign-hub.github.io/Polygonisation-in-Layer-Properties/)**
 
 ## Challenges Identified
 
